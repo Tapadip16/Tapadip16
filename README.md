@@ -48,9 +48,6 @@
 Developer Luci......
                 
 <p align="center"> 
-  <a href="https://github.com/evildevill/Devil/releases">
-    <img src="https://img.shields.io/badge/release-v3.0.0-blue">
-  </a>
   <a href="https://wikipedia.org/wiki/Shell_script">
     <img src="https://img.shields.io/badge/language-Python-green.svg">
  </a>
