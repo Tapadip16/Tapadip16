@@ -1,8 +1,8 @@
-# resume-<h2>Hi, I'm Tapadip Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# resume-# resume-<h2>Hi, I'm Tapadip Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 
-<a href="https://www.instagram.com/dev_ops_16/">
+<a href="https://www.instagram.com/dev_ops16/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://github.com/Tapadip">
@@ -45,13 +45,13 @@
 #### Thank You-
 
 
-Developer Luci......
+Dev_Ops16......
                 
 <p align="center"> 
   <a href="https://wikipedia.org/wiki/Shell_script">
     <img src="https://img.shields.io/badge/language-Python-green.svg">
  </a>
-  <a href="https://www.instagram.com/dev_ops_16/">
+  <a href="https://www.instagram.com/dev_ops16/">
     <img src="https://img.shields.io/badge/Instagram-Tapad-blue.svg">
  </a>
 </p>
@@ -65,5 +65,5 @@ That's It... If You Like This Repository. Please Share This With Your Friends..
 ***Thankyou...***
 ***Keep Visiting..***
 ***Enjoy...***
-***Developer Luci......***
+***Dev_Ops16......***
 *******
