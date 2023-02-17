@@ -51,8 +51,8 @@ DO_Paul......
   <a href="https://wikipedia.org/wiki/Shell_script">
     <img src="https://img.shields.io/badge/language-Python-green.svg">
  </a>
-  <a href="https://www.instagram.com/dev_ops16/">
-    <img src="https://img.shields.io/badge/Instagram-Tapad-blue.svg">
+  <a href="https://www.instagram.com/do__paul/">
+    <img src="https://img.shields.io/badge/Instagram-DO_Paul-blue.svg">
  </a>
 </p>
 
