@@ -46,8 +46,8 @@
 
 
 DO_Paul......
-                
-<p align="center"> 
+
+<p align="center">
   <a href="https://wikipedia.org/wiki/Shell_script">
     <img src="https://img.shields.io/badge/language-Python-green.svg">
  </a>
@@ -62,8 +62,8 @@ That's It... If You Like This Repository. Please Share This With Your Friends..
 
 
 
-***Thank You...***
-***Keep Visiting..***
-***Enjoy...***
-***DO_Paul......***
+***Thank You..***
+***Keep Visiting....***
+***Enjoy......***
+***DO_Paul........***
 *******
