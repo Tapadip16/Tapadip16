@@ -28,7 +28,7 @@
 
 <br />
 
-### Languages ....
+### 𝐒𝐤𝐢𝐥𝐥𝐬....
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="" style="vertical-align:top; margin:4px">
@@ -45,7 +45,7 @@
 #### Thank You-
 
 
-ＤＯ_Ｐａｕｌ......
+ＤＯ_Ｐａｕｌ....
 
 <p align="center">
   <a href="https://wikipedia.org/wiki/Shell_script">
