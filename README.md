@@ -12,7 +12,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 19 years old Certified Front-End Web Developer, UI/UX Designer and Programer from India.
+### I'm 20 years old Certified Front-End Web Developer, UI/UX Designer and Programer from India.
 
 <br/>
 
@@ -45,7 +45,7 @@
 #### Thank You-
 
 
-DO_Paul......
+ＤＯ_Ｐａｕｌ......
 
 <p align="center">
   <a href="https://wikipedia.org/wiki/Shell_script">
