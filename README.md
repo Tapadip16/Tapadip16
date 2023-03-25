@@ -1,4 +1,4 @@
-# ℜesume -- <h2>Hi, I'm 𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# ℜesume -- <h2>Hi, I'm  𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 
@@ -65,4 +65,4 @@ That's It... If You Like This Repository. Please Share This With Your Friends..
 ***Thank You..*** <br>
 ***Keep Visiting....*** <br>
 ***Enjoy......*** <br>
-𝒟𝒪_𝒫𝒶𝓊𝓁........
+𝓓𝓞_𝓟𝓪𝓾𝓵........
