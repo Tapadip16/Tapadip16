@@ -1,5 +1,5 @@
 # resume-# resume-<h2>Hi, I'm Tapadip Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://drive.google.com/file/d/1gPTWi4cQ41U1Fdd2XNYFcE16LdLOJaLH/view?usp=share_link" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 
 <a href="https://www.instagram.com/dev_ops16/">
@@ -65,5 +65,4 @@ That's It... If You Like This Repository. Please Share This With Your Friends..
 ***Thank You..*** <br>
 ***Keep Visiting....*** <br>
 ***Enjoy......*** <br>
-***DO_Paul........*** <br>
-*******
+***DO_Paul........***
