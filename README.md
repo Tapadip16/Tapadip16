@@ -1,68 +1,15 @@
-# ℜesume -- <h2>Hi, I'm  𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<br/>
 
-<a href="https://www.instagram.com/do__paul">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/Tapadip16">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
-</a>
-<br/>
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/do__paul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tapadip Paul) 
 
-### Hi 🙋‍♂️,
-### I'm 20 years old Certified Front-End Web Developer, UI/UX Designer and Programer from India.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tapadip16&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tapadip16&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapadip16&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=Tapadip16&icon=0&color=4)](https://visitcount.itsvg.in)
 
-
-**I am Into , 🙏**
-<br/>
-**Web Development, UI/UX Designing, Linux, & Programming**
-
-
-<br />
-
-*************
-
-<br />
-
-### 𝐒𝐤𝐢𝐥𝐥𝐬....
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="" style="vertical-align:top; margin:4px">
- </p>
- <p align="center">
- <code><a href="https://www.python.org/"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.java.com/"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<br/><br/>
-</p>
-
-***********************************
-
-#### Thank You-
-
-
-ＤＯ_Ｐａｕｌ....
-
-<p align="center">
-  <a href="https://wikipedia.org/wiki/Shell_script">
-    <img src="https://img.shields.io/badge/language-Python-green.svg">
- </a>
-  <a href="https://www.instagram.com/do__paul/">
-    <img src="https://img.shields.io/badge/Instagram-DO_Paul-blue.svg">
- </a>
-</p>
-
-***
-
-That's It... If You Like This Repository. Please Share This With Your Friends..
-
-
-
-***Thank You..*** <br>
-***Keep Visiting....*** <br>
-***Enjoy......*** <br>
-𝓓𝓞_𝓟𝓪𝓾𝓵........
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
