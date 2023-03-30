@@ -26,7 +26,7 @@
   
 ---
   
-[![](https://visitcount.itsvg.in/api?id=Tapadip16&icon=0&color=4)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Tapadip16&icon=0&color=4)
 
 That's It... If You Like This Repository. Please Share This With Your Friends..
 
