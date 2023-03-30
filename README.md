@@ -1,8 +1,7 @@
-# ℜesume -- <h2>Hi, I'm  𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# ℜesume -- <h2>Hi, I'm  𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁!</h2>
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/do__paul) <a href="https://www.linkedin.com/in/tapadip-paul-r16052004/">
-    <img src="https://img.shields.io/badge/linkedin-blue.svg">
- </a> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/do__paul) <a href="https://www.linkedin.com/in/tapadip-paul-r16052004/"> <img src="https://img.shields.io/badge/linkedin-blue.svg"></a>
+<br>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 
