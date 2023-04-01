@@ -1,14 +1,14 @@
 # ℜesume
 <img align="center" src="https://imgs.search.brave.com/WxM1xPwxYktMdh3lO9wyIswZadbdAU3W-vdEEu4p5BI/rs:fit:1200:590:1/g:ce/aHR0cHM6Ly93d3cu/ZGlnaXRhbGFkbGVj/dGlvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNC9O/ZXctUE5DLUFuaW1h/dGVkLUJhbm5lcnMu/Z2lm.gif">
-<h2 align="center">Hi👋🏻, I'm 𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁!</h2> </br>
+<h1 align="center">Hi👋🏻, I'm 𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁!</h1> </br>
 
 # 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/tapadip16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tapadip16" height="30" width="40" /></a>
-<a href="https://twitter.com/tapadippaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapadippaul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tapadip-paul-r16052004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tapadip-paul-r16052004" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/do__paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/do__paul" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/tapadip16"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tapadip16" height="30" width="40" /></a>
+<a href="https://twitter.com/tapadippaul"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapadippaul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tapadip-paul-r16052004"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tapadip-paul-r16052004" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/do__paul"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/do__paul" height="30" width="40" /></a>
 </p>
 
 # 😎 About Me:
@@ -19,7 +19,7 @@
 <br>
 "Web Development, UI/UX Designing, Photo Editing, Linux, & Programming.."
 <br>
-🔭 I’m currently working on my - Web Development. <br>👯 I’m looking for better opportunities. <br>🌱 I’m currently learning - ReactJs. <br>💬 Ask me about my future plans. <br> 📫 How to reach me tapadippaul@gmail.com
+🔭 I’m currently working on - Web Development. <br>👯 I’m looking for better opportunities. <br>🌱 I’m currently learning - ReactJs. <br>💬 Ask me about my future plans. <br> 📫 How to reach me - tapadippaul@gmail.com
 
 
 
