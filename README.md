@@ -1,18 +1,25 @@
 # ℜesume
-<h2>Hi, I'm 𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁!</h2> </br>
+<img align="center" src="https://imgs.search.brave.com/WxM1xPwxYktMdh3lO9wyIswZadbdAU3W-vdEEu4p5BI/rs:fit:1200:590:1/g:ce/aHR0cHM6Ly93d3cu/ZGlnaXRhbGFkbGVj/dGlvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNC9O/ZXctUE5DLUFuaW1h/dGVkLUJhbm5lcnMu/Z2lm.gif">
+<h2 align="center">Hi👋🏻, I'm 𝒯𝒶𝓅𝒶𝒹𝒾𝓅 𝒫𝒶𝓊𝓁!</h2> </br>
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/do__paul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tapadip-paul-r16052004/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18335957/do-paul) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TapadipPaul) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/tapadip16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tapadip16" height="30" width="40" /></a>
+<a href="https://twitter.com/tapadippaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapadippaul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tapadip-paul-r16052004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tapadip-paul-r16052004" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/do__paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/do__paul" height="30" width="40" /></a>
+</p>
 
 # 😎 About Me:
 ### I'm 20 years old Certified front-end developers and programmer from India.
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  <img align='right' src="https://imgs.search.brave.com/NFGz-R8IVMMvvtZVjPtXlydLK1MhVbJvzoueldghxbY/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwMjU4/Mzgvc2NyZWVuc2hv/dHMvNjIyMDg4NS9k/ZXZndXkzLmdpZg.gif" width="320">
 <br/>
 𝕴 𝖆𝖒 𝖎𝖓𝖙𝖔, 🙏
 <br>
 "Web Development, UI/UX Designing, Photo Editing, Linux, & Programming.."
 <br>
-🔭 I’m currently working on my career. <br>👯 I’m looking for better opportunities. <br>🌱 I’m currently learning. <br>💬 Ask me about my future plans.
+🔭 I’m currently working on my - Web Development. <br>👯 I’m looking for better opportunities. <br>🌱 I’m currently learning - ReactJs. <br>💬 Ask me about my future plans. <br> 📫 How to reach me tapadippaul@gmail.com
 
 
 
