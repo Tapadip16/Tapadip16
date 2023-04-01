@@ -48,8 +48,8 @@ That's It... If You Like This Repository. Please Share This With Your Friends..
   
 
 
-## Now you can buy me a coffee!
-<a href="https://www.buymeacoffee.com/tapadippaul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 210px !important;" ></a>
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tapadippaul) 
 
 ***Thank You..*** <br>
 ***Keep Visiting....*** <br>
