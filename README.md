@@ -13,7 +13,7 @@
 
 # 😎 About Me:
 ### I'm 20 years old Certified front-end developers and programmer from India.
-  <img align='right' src="https://imgs.search.brave.com/NFGz-R8IVMMvvtZVjPtXlydLK1MhVbJvzoueldghxbY/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwMjU4/Mzgvc2NyZWVuc2hv/dHMvNjIyMDg4NS9k/ZXZndXkzLmdpZg.gif" width="320">
+  <img align='right' src="https://imgs.search.brave.com/NFGz-R8IVMMvvtZVjPtXlydLK1MhVbJvzoueldghxbY/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwMjU4/Mzgvc2NyZWVuc2hv/dHMvNjIyMDg4NS9k/ZXZndXkzLmdpZg.gif" width="319">
 <br/>
 𝕴 𝖆𝖒 𝖎𝖓𝖙𝖔, 🙏
 <br>
