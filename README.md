@@ -24,8 +24,9 @@
 
 
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35px" width="35px" />
+# 💻 Languages & Tools:
+<p align="left"> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35px" width="35px" /> 
+<a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/cpp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/java" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/python" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35px" width="35px" />
