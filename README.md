@@ -42,7 +42,6 @@
 <a href="https://apache.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35px" width="35px" />
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35px" width="35px" />
 <a href="https://www.adobe.com/in/products/lightroom.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/adobe-lightroom.svg" height="35px" width="35px" />
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35px" width="35px" />
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35px" width="35px" />
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35px" width="35px" />
 <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35px" width="35px" />
