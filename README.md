@@ -25,26 +25,23 @@
 
 
 # 💻 Languages & Tools:
-<p align="left"> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35px" width="35px" /> 
-<a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35px" width="35px" />
-<a href="https://www.w3schools.com/cpp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35px" width="35px" />
+<p align="left"> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35px" width="35px" />
+<a href="https://www.w3schools.com/git" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" />
 <a href="https://www.w3schools.com/java" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/python" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35px" width="35px" />
-<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35px" width="35px" />
+<a href="https://www.w3schools.com/sass" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35px" width="35px" />
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35px" width="35px" />
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35px" width="35px" />
-<a href="https://babeljs.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="35px" width="35px" />
 <a href="https://www.w3schools.com/nodejs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35px" width="35px" />
 <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35px" width="35px" />
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35px" width="35px" />
 <a href="https://apache.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35px" width="35px" />
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35px" width="35px" />
-<a href="https://www.adobe.com/in/products/lightroom.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/adobe-lightroom.svg" height="35px" width="35px" />
-<a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35px" width="35px" />
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35px" width="35px" />
-<a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35px" width="35px" />
+<a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35px" width="35px" />
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35px" width="35px" />
 </p>
 
@@ -69,7 +66,7 @@ That's It... If You Like This Repository. Please Share This With Your Friends..
   
 #### Thank You-
 
-ＤＯ_Ｐａｕｌ....
+ＤevＯps.Ｐａｕｌ
   
 ---
   
@@ -80,8 +77,7 @@ That's It... If You Like This Repository. Please Share This With Your Friends..
 
 ***Thank You..*** <br>
 ***Keep Visiting....*** <br>
-***Enjoy......*** <br>
-𝓓𝓞_𝓟𝓪𝓾𝓵........
+***Enjoy......***
 
 ---
 
