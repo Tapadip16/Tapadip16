@@ -12,7 +12,7 @@
 </p>
 
 # 😎 About Me:
-### Greetings, I am Tapadip Paul, a passionate Front-End Developer from the vibrant state of West Bengal, with my roots in the town of Raniganj. At the age of 20, I became fully immersed in web development, specifically specializing in Front-End development, UI/UX design, and web design. My expertise is to create, design & deploy stunning websites.
+### Greetings, I'm Tapadip Paul, a dedicated Front-End Developer hailing from the dynamic state of West Bengal, with roots in the town of Raniganj. With a fervent passion for web development, I specialize in crafting engaging user experiences through Front-End development, UI/UX design, and web architecture. My focus lies in conceptualizing, designing, and deploying captivating websites that resonate with users and clients alike.
   <img align='right' src="https://imgs.search.brave.com/NFGz-R8IVMMvvtZVjPtXlydLK1MhVbJvzoueldghxbY/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwMjU4/Mzgvc2NyZWVuc2hv/dHMvNjIyMDg4NS9k/ZXZndXkzLmdpZg.gif" width="319">
 <br/>
 𝕴 𝖆𝖒 𝖎𝖓𝖙𝖔, 🙏
